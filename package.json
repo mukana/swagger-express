@@ -16,7 +16,7 @@
     "url": "https://github.com/apigee-127/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner": "https://github.com/mukana-lahtelat/swagger-node-runner.git"
+    "swagger-node-runner": "git+https://git.mukana.info/public-libraries/swagger-node-runner.git"
   },
   "devDependencies": {
     "lodash": "^3.9.3",
